@@ -1,2 +1,4 @@
-# driven-data-predicting-poverty
-'Predicting Poverty' data science competition on DrivenData (https://www.drivendata.org/competitions/50/worldbank-poverty-prediction/)
+# Predicting Poverty 
+This is my submission for the 'Predicting Poverty' data science challenge hosted by the World Bank on DrivenData (https://www.drivendata.org/competitions/50/worldbank-poverty-prediction/). The goal of the contest is to predict if a household is poor or not (binary classification problem). The training and test data were provided for three countries (the name of the countries were not given). The input data came from surveys conducted by the World Bank, both at the household level and at the individual level. All the column names and categorical column values were anonymized to keep the countries anonymous. The final submission was a csv file containing the household id, country and the probability of the household being poor. The evaluation metric used was mean log loss. I finished the competition with a mean log loss score of 0.1625 (the top score was 0.1480) and ranked 126 out of 2500+ contestants.
+
+
